@@ -11,12 +11,12 @@ In this study, we aimed to address the abovementioned research gap by optimizing
 at home, including cereals, tubers, legumes, vegetables, fruits, nuts, pork, beef, mutton, poultry, eggs, dairy products, fish and seafood, sugar, and oil. Due to lack of data on salt intake, we assumed a salt intake of 5 g for all provinces with no further optimization  
 away from home, ***CHNS 2018***
 
-弹性系数来自：[https://agfep.cau.edu.cn/art/2021/4/30/art_39027_744843.html]
+弹性系数来自：(https://agfep.cau.edu.cn/art/2021/4/30/art_39027_744843.html)
   
 ### Optimization of residents' dietary structure with consideration of greenhouse gas mitigation and nutritional requirements
 ***Sustainable Food production and Consumption***  
 ***Su MeiRong***  
 Unreading
 
-- []整理朱媛媛膳食指南对比的表格
+- [ ]整理朱媛媛膳食指南对比的表格
 
