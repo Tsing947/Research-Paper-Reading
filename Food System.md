@@ -10,8 +10,9 @@ In this study, we aimed to address the abovementioned research gap by optimizing
 15种类：  
 at home, including cereals, tubers, legumes, vegetables, fruits, nuts, pork, beef, mutton, poultry, eggs, dairy products, fish and seafood, sugar, and oil. Due to lack of data on salt intake, we assumed a salt intake of 5 g for all provinces with no further optimization  
 away from home, ***CHNS 2018***
+按照弹性系数比重进行估算比例 方法同《2021中国与全球食物政策报告》正式发布(附全文) https://agfep.cau.edu.cn/art/2021/4/30/art_39027_744843.html 附录2提供了弹性系数，以及计算的2012-2019的在外就餐消费比例
+![image](https://github.com/user-attachments/assets/9bfa8c70-0e9a-45b4-89e3-050822033e47)
 
-弹性系数来自：(https://agfep.cau.edu.cn/art/2021/4/30/art_39027_744843.html)
   
 ### Optimization of residents' dietary structure with consideration of greenhouse gas mitigation and nutritional requirements
 ***Sustainable Food production and Consumption***  
@@ -19,4 +20,5 @@ away from home, ***CHNS 2018***
 Unreading
 
 - [ ] 整理朱媛媛膳食指南对比的表格
+- [ ] Food Losses and Food Waste in China https://www.oecd-ilibrary.org/content/paper/5jz5sq5173lq-en
 
