@@ -18,5 +18,5 @@ away from home, ***CHNS 2018***
 ***Su MeiRong***  
 Unreading
 
-- [×]整理朱媛媛膳食指南对比的表格
+- [ ] 整理朱媛媛膳食指南对比的表格
 
