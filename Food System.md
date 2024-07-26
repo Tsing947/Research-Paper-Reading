@@ -11,10 +11,11 @@ In this study, we aimed to address the abovementioned research gap by optimizing
 *away from home*, ***CHNS 2018***  
 按照弹性系数比重进行估算比例 方法同《2021中国与全球食物政策报告》正式发布(附全文) https://agfep.cau.edu.cn/art/2021/4/30/art_39027_744843.html 附录2提供了弹性系数，以及计算的2012-2019的在外就餐消费比例  
 $F_{ij} = \frac{h_{ij}}{(1 - r_i \cdot (1 + e_i \cdot \frac{(I_j - \bar{I})}{\bar{I}}))}$  
-where Fij denotes the consumption of food item i in province j;  hij denotes the consumption; ri denotes the average proportion of out-of-home consumption in the CHNS 2018 survey provinces; ei denotes the income elasticity of the out-of-home consumption of ; Ij denotes the average income of residents; and Idenotes the average income of the CHNS 2018 survey provinces.  
-
+where Fij denotes the consumption of food item i in province j;  hij denotes the consumption; ri denotes the average proportion of out-of-home consumption in the CHNS 2018 survey provinces; ei denotes the income elasticity of the out-of-home consumption of ; Ij denotes the average income of residents; and Idenotes the average income of the CHNS 2018 survey provinces.   
 *Evinronmental Footprint*: recently Chinese available (Cai et al., 2022; Xue et al., 2021) environmental footprint factors, i.e., carbon footprint (CF), water footprint (WF), land footprint (LF), nitrogen footprint (NF), and phosphorus footprint (PF) per gram of food to all food items. 这是目前最全面的针对中国的食物环境足迹数据  
-
+*Nutrition intake*: Chinese Food Composition Tables (Yang, 2019a, 2019b)
+four essential nutrients (vitamin K, vitamin B-6, vitamin B-12, and saturated fatty acids) were not available in the Chinese food composition table, complemented the nutrient composition datasets with the nutrient content values for these nutrients from the United States Department of Agriculture (USDA) Standard Reference (SR) 28 nutrient composition table.  
+Obtained the daily per capita intake of calories and 24 essential nutrients (20 beneficial and 4 restricted) for the 31 provinces.
 
   
 ### Optimization of residents' dietary structure with consideration of greenhouse gas mitigation and nutritional requirements
