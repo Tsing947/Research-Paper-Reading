@@ -13,6 +13,9 @@ In this study, we aimed to address the abovementioned research gap by optimizing
 
 $$
 F_{ij} = \frac{h_{ij}}{(1 - r_i \cdot (1 + e_i \cdot \frac{(I_j - \bar{I})}{\bar{I}}))}
+$$  
+
+$$  
 where \( F_{ij} \) denotes the consumption (g capita\(^{-1}\) day\(^{-1}\)) of food item \( i \) in province \( j \); \( h_{ij} \) denotes the consumption of food type \( i \) at home in province \( j \); \( r_i \) denotes the average proportion of out-of-home consumption of food type \( i \) in the CHNS 2018 survey provinces; \( e_i \) denotes the income elasticity of the out-of-home consumption of the food type \( i \); \( I_j \) denotes the average income of residents in the province \( j \); and \( \bar{I} \) denotes the average income of the CHNS 2018 survey provinces.  
 *Evinronmental Footprint*: recently Chinese available (Cai et al., 2022; Xue et al., 2021) environmental footprint factors, i.e., carbon footprint (CF), water footprint (WF), land footprint (LF), nitrogen footprint (NF), and phosphorus footprint (PF) per gram of food to all food items. 这是目前最全面的针对中国的食物环境足迹数据  
 $$  
