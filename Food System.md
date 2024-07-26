@@ -23,7 +23,7 @@ $MNA = \frac{1}{4} \sum_{n=1}^{4} \frac{QN_m}{UL_m}-1$
 * Optimazitaion function
 *Objectiive function*偏好最小  
 $\text{Minimize} \ f = \frac{1}{15} \sum_{i=1}^{15} \left( \frac{Q_{\text{opt},i} - Q_{\text{obs},i}}{Q_{\text{obs},i}} \right)^2$  
-*Constraint*考虑了健康，环境外，还考虑了价格因素这是以往很少考虑的
+*Constraint*考虑了健康，环境外，还考虑了价格因素这是以往很少考虑的  
 $\sum_{i=1}^{15} Q_{\text{opt},i} * \text{Nutrient}_{i,n} > RNI_n$  
 $\sum_{i=1}^{15} Q_{\text{opt},i} * \text{Nutrient}_{i,m} < UL_m$  
 $\sum_{i=1}^{15} P_i * Q_{\text{opt},i} \leq \sum_{i=1}^{15} P_i * Q_{\text{obs},i}$  
