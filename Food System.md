@@ -22,16 +22,16 @@ $MNA = \frac{1}{4} \sum_{n=1}^{4} \frac{QN_m}{UL_m}-1$
 *Agricultural price data* each province from the China Agricultural Products Supply and Demand Analysis System of the Ministry of Agriculture and Rural Affairs (https://ncpscxx.moa.gov.cn/) and the Agricultural Products Business Information Public Service Platform (http://nc.mofcom.gov.cn/). The data included the weekly price data for grains, tubers, legumes, vegetables, fruits, pork, beef, mutton, poultry, eggs, fish and seafood, nuts, and edible oil for each province. Owing to the lack of the price data for milk and sugar in each province, the prices of milk and sugar were replaced by the national average retail price.  
 * Optimazitaion function
 *Objectiive function*偏好最小  
-$\text{Minimize} \ f = \frac{1}{15} \sum_{i=1}^{15} \left( \frac{Q_{\text{opt},i} - Q_{\text{obs},i}}{Q_{\text{obs},i}} \right)^2$
+$\text{Minimize} \ f = \frac{1}{15} \sum_{i=1}^{15} \left( \frac{Q_{\text{opt},i} - Q_{\text{obs},i}}{Q_{\text{obs},i}} \right)^2$  
 *Constraint*考虑了健康，环境外，还考虑了价格因素这是以往很少考虑的
-$\sum_{i=1}^{15} Q_{\text{opt},i} * \text{Nutrient}_{i,n} > RNI_n$
-$\sum_{i=1}^{15} Q_{\text{opt},i} * \text{Nutrient}_{i,m} < UL_m$
-$\sum_{i=1}^{15} P_i * Q_{\text{opt},i} \leq \sum_{i=1}^{15} P_i * Q_{\text{obs},i}$
-$\sum_{i=1}^{15} CF_i * Q_{\text{opt},i} = \alpha \sum_{i=1}^{15} CF_i * Q_{\text{obs},i}$
-$\sum_{i=1}^{15} WF_i * Q_{\text{opt},i} \leq \sum_{i=1}^{15} WF_i * Q_{\text{obs},i}$
-$\sum_{i=1}^{15} LF_i * Q_{\text{opt},i} \leq \sum_{i=1}^{15} LF_i * Q_{\text{obs},i}$
-$\sum_{i=1}^{15} NF_i * Q_{\text{opt},i} \leq \sum_{i=1}^{15} NF_i * Q_{\text{obs},i}$
-$\sum_{i=1}^{15} PF_i * Q_{\text{opt},i} \leq \sum_{i=1}^{15} PF_i * Q_{\text{obs},i}$
+$\sum_{i=1}^{15} Q_{\text{opt},i} * \text{Nutrient}_{i,n} > RNI_n$  
+$\sum_{i=1}^{15} Q_{\text{opt},i} * \text{Nutrient}_{i,m} < UL_m$  
+$\sum_{i=1}^{15} P_i * Q_{\text{opt},i} \leq \sum_{i=1}^{15} P_i * Q_{\text{obs},i}$  
+$\sum_{i=1}^{15} CF_i * Q_{\text{opt},i} = \alpha \sum_{i=1}^{15} CF_i * Q_{\text{obs},i}$  
+$\sum_{i=1}^{15} WF_i * Q_{\text{opt},i} \leq \sum_{i=1}^{15} WF_i * Q_{\text{obs},i}$  
+$\sum_{i=1}^{15} LF_i * Q_{\text{opt},i} \leq \sum_{i=1}^{15} LF_i * Q_{\text{obs},i}$  
+$\sum_{i=1}^{15} NF_i * Q_{\text{opt},i} \leq \sum_{i=1}^{15} NF_i * Q_{\text{obs},i}$  
+$\sum_{i=1}^{15} PF_i * Q_{\text{opt},i} \leq \sum_{i=1}^{15} PF_i * Q_{\text{obs},i}$  
 
 
 
